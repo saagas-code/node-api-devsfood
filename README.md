@@ -8,7 +8,7 @@
 - Passport JWT
 
 ## Sobre 💻
-Projeto desenvolvido com o intuito de simular o back-end da [DEVSFOOD](https://olx.com.br/) baseado em estrutura MVC
+Projeto desenvolvido com o intuito de simular o back-end da [DEVSFOOD]([https://olx.com.br/](https://github.com/saagas-code/react-devsfood)) baseado em estrutura MVC
 
 ## Instalação
 **1 -** Criar arquivo .env e setar variáveis:
